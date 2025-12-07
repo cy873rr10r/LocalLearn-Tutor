@@ -1,0 +1,7 @@
+streamlit
+gtts
+google-adk
+google-generativeai
+pillow
+python-dotenv
+pyttsx3
